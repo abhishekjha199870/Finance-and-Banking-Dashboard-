@@ -35,3 +35,10 @@ To explore customer trends, transaction patterns, risk insights and loan perform
 - Transaction trend analysis
 - Regional performance comparison
 - Executive reporting
+
+## Business Insights
+
+-Transaction behavior reveals customer spending trends
+-Risk segmentation supports proactive portfolio monitoring
+-Loan analysis provides visibility into credit quality
+-Regional analysis improves decision-making at branch level
